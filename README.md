@@ -18,8 +18,9 @@ SETUP:
 
 1. Copy files
 2. Download music and place in an easily accessible file
-3. Open MusicPlayer.py and edit code
+3. Each song must be named x.mp3 (x is an integer in assending order, 1, 2, 3, etc.)
+5. Open MusicPlayer.py and edit code
             a. change directory to music file
-            b. change  to number of songs in file
+            b. change songNum to number of songs in file
             c.(optional) change default volume value
-4.
+4. Use SpeechCode.py and VoiceRecognition.py to test the text to speech and voice recognition functions
